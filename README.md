@@ -51,10 +51,10 @@ npm run dev                    # http://localhost:3000
 
 
 Добавлял:
-    echo "# free-llm" >> README.md
+echo "# free-llm" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github-3:chanelanalovich-cyber/free-llm.git
-git push -u origin main# free-llm
+git push -u origin main
